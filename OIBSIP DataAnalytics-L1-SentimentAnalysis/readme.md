@@ -67,10 +67,9 @@ The model could support customer feedback analysis, social media opinion monitor
 
 ## How to Run
 
-1. Install the required dependencies listed in `requirements.txt`.
-2. Download the dataset from the source listed above.
-3. Update the dataset path in the notebook if necessary.
-4. Run the notebook cells in order.
+1. Download the dataset from the source listed above.
+2. Update the dataset path in the notebook if necessary.
+3. Run the notebook cells in order.
 
 ## Project Author
 Syed Muzzamil Hussain
