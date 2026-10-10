@@ -73,5 +73,4 @@ The model could support customer feedback analysis, social media opinion monitor
 4. Run the notebook cells in order.
 
 ## Project Author
-
-Add your name and internship details before submission.
+Syed Muzzamil Hussain
